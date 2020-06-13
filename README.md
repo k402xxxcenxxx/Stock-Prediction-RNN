@@ -55,3 +55,6 @@ _________________________________________________________________
     33% of Data used for Testing 
     Plot only shows the last points of test set and predicted values	
 ![alt text](https://github.com/jha-prateek/Stock-Prediction-RNN/blob/master/predicted_test.JPG)
+
+#### DATA
+交易日期、成交股數、成交金額、開盤價、最高價、最低價、收盤價、漲跌價差、成交筆數
